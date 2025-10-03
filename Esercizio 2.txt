@@ -1,0 +1,10 @@
+GIOCO: Tris
+
+Tris
+
+Nuova meccanica: ogni casella del "Tris" ha al suo interno un ulteriore partita di "Tris".
+Per aggiudicarsi la partita bisognerà vincere 3 di queste partite che siano allineate tra loro, in modo da segnare un tris.
+
+Scacchi
+
+Nuova meccanica: i giocatori partono, oltre che con i colori definiti dallo schieramento (bianco e nero), con un secondo colore (rosso e blu). Quando una pedina viene "presa", la casella in cui si trovava diventerà del colore dell'avversario (ad esempio, un cavallo bianco(rosso) "mangia" un pedone nero(blu), la casella dove si trovava quel pedone diventerà rossa, limitando i movimenti dei pezzi neri che avranno una casella in meno).
